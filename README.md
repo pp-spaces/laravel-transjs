@@ -7,6 +7,6 @@
                                   /___/           
 ```
 
-# laravel-transjs
+# Laravel TransJS
 
 Export your Laravel Translations to JavaScript readable JSON format.
